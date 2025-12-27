@@ -1,0 +1,21 @@
+# Environnement virtuel
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+staticfiles/
+media/
+
+# Environnement
+.env
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# OS
+.DS_Store
